@@ -1,0 +1,25 @@
+{
+  "name": "shel/neos-login-wallpapers",
+  "type": "neos-plugin",
+  "description": "Configurable login wallpapers for Neos CMS",
+  "license": "GPL-3.0-or-later",
+  "keywords": [
+    "Neos CMS"
+  ],
+  "authors": [
+    {
+      "name": "Sebastian Helzle",
+      "email": "support@helzle.it",
+      "homepage": "https://www.helzle.it",
+      "role": "Developer"
+    }
+  ],
+  "require": {
+    "neos/neos": "~5.3 || ~7.0"
+  },
+  "extra": {
+    "neos": {
+      "package-key": "Shel.Neos.LoginWallpapers"
+    }
+  }
+}

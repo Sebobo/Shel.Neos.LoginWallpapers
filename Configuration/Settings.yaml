@@ -1,0 +1,5 @@
+Neos:
+  Neos:
+    userInterface:
+      backendLoginForm:
+        backgroundImage: 'https://source.unsplash.com/random'
